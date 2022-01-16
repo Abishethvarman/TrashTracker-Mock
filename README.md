@@ -1,7 +1,7 @@
 # TrashTracker
 The mobile application to track the plastic trash pollution
 Welcome Screen
-Login Screen
+\n Login Screen
 Signup Screen
 Home Screen
 Add new spot screen
